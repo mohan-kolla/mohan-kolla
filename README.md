@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mohan-kolla
+- 👀 I’m interested in data science and neural network development.
+- 🌱 I’m currently learning socially interactive agents, neural networks, and machine learning.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: on Instrgram (@mo_kolla) or on LinkedIn (https://www.linkedin.com/in/mohan-kolla-1b428524b/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm on a mission to visit every national park, reach out with your favorite memory of the outdoors!
