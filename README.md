@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohan-kolla
+- 👋 Hi, I’m Mohan Kolla
 - 👀 I’m interested in data science and neural network development.
 - 🌱 I’m currently learning socially interactive agents, neural networks, and machine learning.
 - 💞️ I’m looking to collaborate on ...
